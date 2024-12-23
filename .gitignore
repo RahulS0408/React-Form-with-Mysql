@@ -1,0 +1,20 @@
+# Logs
+logs/
+*.log
+
+# Dependency directories
+node_modules/
+bower_components/
+
+# Build outputs
+dist/
+build/
+
+# Docker files
+*.pid
+*.log
+.env
+
+# OS-specific files
+.DS_Store
+Thumbs.db
